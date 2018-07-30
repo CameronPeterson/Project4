@@ -1,0 +1,21 @@
+        Name      ID   Price  # Sold       Sales
+___________________________________________________________
+     Stardew    7777    6.80       5       34.00
+     Parsnip    4672    1.99     342      680.58
+  Watermelon    3308    4.15     172      713.80
+       Mango    3365    4.20     210      882.00
+       Melon    2210    2.22     399      885.78
+        Pear    4553    2.40     402      964.80
+       Onion    4093    1.57     794     1246.58
+        Plum    4437    3.90     393     1532.70
+      Potato    4102    1.20    1403     1683.60
+       Peach    4400    3.50     649     2271.50
+     Rhubarb    1031    2.30    1021     2348.30
+      Orange    4381    3.12     831     2592.72
+       Apple    4129    2.52    1492     3759.84
+      Banana    4011    2.99    1538     4598.62
+   Blueberry    3210    5.50    2102    11561.00
+
+The total number sold is 11752
+The total sales is 35746.00
+Process finished with exit code 0
